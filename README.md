@@ -1,4 +1,4 @@
-### Olá Mundo! Eu sou o Eduardo Rocha! 🤓
+### Olá Mundo! Eu sou o Eduardo Rocha! 
 
 - 🌱 Estudando algorítmos e lógica de programação.
 
