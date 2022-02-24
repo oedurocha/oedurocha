@@ -40,6 +40,6 @@
 	
   ##
 	
-![Snake animation](https://github.com/felipehanzava/felipehanzava/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/oedurocha/oedurocha/blob/output/github-contribution-grid-snake.svg)
 
 </div>
