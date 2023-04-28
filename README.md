@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou o Eduardo Rocha! 
 
-- 🧑🏻‍💻 Estou estudando Java na Alura.
+- 🧑🏻‍💻 Sou Desenvolvedor Java
 - ☕ Eu amo tecnologia, gosto de praticar esportes, viajar e sei tocar alguns instrumentos!🎶
 
 ##
