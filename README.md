@@ -1,7 +1,6 @@
 ### Olá Mundo! Eu sou o Eduardo Rocha! 
 
-- 🧑🏻‍💻 Sou Desenvolvedor Java
-- ☕ Eu amo tecnologia, gosto de praticar esportes, viajar e sei tocar alguns instrumentos!🎶
+🧑🏻‍💻 Desenvolvedor Java
 
 ##
 
